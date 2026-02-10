@@ -1,2 +1,2 @@
 # VerdStudio
-Veri Tabanı Raporlama Dili Geliştirme Ortamı
+VERD Studio is an integrated development environment for VERD programming language.
