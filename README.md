@@ -23,7 +23,7 @@ Functions supported by VERD Studio
 | Import Existing Project                                    | 
 | Create New VERD Project                                    | 
 | Open and close a VERD Project                              | 
-| Create New Folder or file                                  | 
+| Create a new Folder or a file                              | 
 | Delete an existing VERD project                            | 
 | Remove an existing VERD project from workspace             |
 | Rename a VERD project                                      |
