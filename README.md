@@ -16,11 +16,18 @@ Source code files that VERD Studio uses should have the “.v” extension which
 Platforms
 ---------
 
-| Function                                |Explanation                                    |
-| ------------                            |:---------------------------------------------:| 
-| Create new Workspace                    | right-aligned                                 | 
-| Add existing Workspace                  | centered <br> deneme                          |
-| Select from previously added Workspaces | are neat                                      |   
+| Function                                |
+| :--------------------------------------:|
+| Create new Workspace                    | 
+| Add existing Workspace                  | 
+| Select from previously added Workspaces | 
+| Import Existing Project                 |
+| Create New VERD Project                 | 
+| Open a closed VERD Project              |
+| Close an opened VERD Project            | 
+| Create New Folder under a Project       | 
+| Create New File under a Project         | 
+| Delete an existing VERD project         | 
 
 Licence
 -------
