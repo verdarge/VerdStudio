@@ -1,4 +1,4 @@
-![Verd Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/VerdLogo.png)
+![Verd Logo](https://www.verd.com.tr/content/img/logo.png)
 
 About
 -----
