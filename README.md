@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://www.verd.com.tr/content/img/logo.png)" />
+  <img src="https://www.verd.com.tr/content/img/logo.png" />
 </p>
 
 About
