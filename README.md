@@ -1,4 +1,6 @@
-                                  ![Verd Logo](https://www.verd.com.tr/content/img/logo.png)
+<p align="center">
+![Verd Logo](https://www.verd.com.tr/content/img/logo.png)
+</p>
 
 About
 -----
