@@ -16,18 +16,18 @@ Source code files that VERD Studio uses should have the “.v” extension which
 Functions supported by VERD Studio
 ---------
 
-| Function                                |
-| :-------------------------------------- |
-| Create new Workspace                    | 
-| Add existing Workspace                  | 
-| Select from previously added Workspaces | 
-| Import Existing Project                 |
-| Create New VERD Project                 | 
-| Open a closed VERD Project              |
-| Close an opened VERD Project            | 
-| Create New Folder under a Project       | 
-| Create New File under a Project         | 
-| Delete an existing VERD project         | 
+| Function                                | Function                                             |
+| :-------------------------------------- | :--------------------------------------              |
+| Create new Workspace                    | Remove an existing VERD project from workspace       |
+| Add existing Workspace                  | Rename a VERD project                                |
+| Select from previously added Workspaces | Paste a copied folder under a VERD project           |
+| Import Existing Project                 | Paste a copied file under a VERD project             |
+| Create New VERD Project                 | Create New Folder under a Folder                     |
+| Open a closed VERD Project              | Create New File under a Folder                       |
+| Close an opened VERD Project            | Delete an existing folder under a VERD project       |
+| Create New Folder under a Project       | Rename a folder under a VERD project                 |
+| Create New File under a Project         | Copy a folder under a VERD project                   |
+| Delete an existing VERD project         | Paste a copied folder under a folder of VERD project |
 
 Licence
 -------
