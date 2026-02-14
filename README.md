@@ -21,9 +21,9 @@ Functions supported by VERD Studio
 | Create new Workspace                                       | 
 | Add existing Workspace                                     | 
 | Import existing project                                    | 
-| Create a new VERD Project                                    | 
+| Create a new VERD Project                                  | 
 | Open and close a VERD Project                              | 
-| Create a new Folder or a file                              | 
+| Create a new folder or a file                              | 
 | Delete an existing VERD project                            | 
 | Remove an existing VERD project from workspace             |
 | Rename a VERD project                                      |
