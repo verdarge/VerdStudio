@@ -1,8 +1,5 @@
 ![Verd Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/VerdLogo.png)
 
-# VerdStudio
-VERD Studio is an integrated development environment for VERD programming language.
-
 About
 -----
 
