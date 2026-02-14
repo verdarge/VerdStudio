@@ -16,28 +16,25 @@ Source code files that VERD Studio uses should have the “.v” extension which
 Functions supported by VERD Studio
 ---------
 
-| Function                                             | 
-| :----------------------------------------------------| 
-| Create new Workspace                                 | 
-| Add existing Workspace                               | 
-| Select from previously added Workspaces              | 
-| Import Existing Project                              | 
-| Create New VERD Project                              | 
-| Open a closed VERD Project                           | 
-| Close an opened VERD Project                         | 
-| Create New Folder under a Project                    | 
-| Create New File under a Project                      | 
-| Delete an existing VERD project                      | 
-| Remove an existing VERD project from workspace       |
-| Rename a VERD project                                |
-| Paste a copied folder under a VERD project           |
-| Paste a copied file under a VERD project             |
-| Create New Folder under a Folder                     |
-| Create New File under a Folder                       |
-| Delete an existing folder under a VERD project       |
-| Rename a folder under a VERD project                 |
-| Copy a folder under a VERD project                   |
-| Paste a copied folder under a folder of VERD project |
+| Function                                                   | 
+| :----------------------------------------------------------| 
+| Create new Workspace                                       | 
+| Add existing Workspace                                     | 
+| Select from previously added Workspaces                    | 
+| Import Existing Project                                    | 
+| Create New VERD Project                                    | 
+| Open a closed VERD Project                                 | 
+| Close an opened VERD Project                               | 
+| Create New Folder under a Project or a folder              | 
+| Create New File under a Project  or a folder               | 
+| Delete an existing VERD project                            | 
+| Remove an existing VERD project from workspace             |
+| Rename a VERD project                                      |
+| Copy & Paste a folder under a VERD project or a Folder     |
+| Copy & Paste a file under a VERD project or a folder       |
+| Delete an existing folder under a VERD project or a folder |
+| Rename a folder under a VERD project or a folder           |
+
 
 Licence
 -------
