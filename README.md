@@ -46,10 +46,7 @@ VERD Studio currently runs only in Windows. VERD Studio can be installed by usin
 
 VERD Studio installs its files into path specified during installation. Defaulh installation location is Program Files (x86) folder. VERD Studio installs Login file that is modified by VERD Studio into installation location.  To modify login file during operations such as adding or creating workspace and different workspace selection other than last workspace, VERD Studio elevates to administrative privileges if installation location is protected as in the case of default installation location .  If you don't rwant VERD Studio to elevate, you can change read write permisssion of login file by using following commands.
 
-<code>
-cd C:\Program Files (x86)\VerdStudio <br/>
-icacls login.xml /grant Users:(f)
-</code>
+<code> cd C:\Program Files (x86)\VerdStudio <br/> icacls Login.xml /grant Users:(f)</code>
 
 Example Workspace and Database
 -------
