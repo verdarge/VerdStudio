@@ -19,8 +19,7 @@ Platforms
 | Function                                |Explanation                                    |
 | ------------                            |:---------------------------------------------:| 
 | Create new Workspace                    | right-aligned                                 | 
-| Add existing Workspace                  | centered                                      |
-                                            deneme                                        |
+| Add existing Workspace                  | <code>centered <br> deneme </code>            |
 | Select from previously added Workspaces | are neat                                      |   
 
 Licence
