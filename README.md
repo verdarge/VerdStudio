@@ -36,7 +36,9 @@ Functions supported by VERD Studio
 | Delete an existing file under a VERD project or a folder   |
 | Rename a file under a VERD project or a folder             |
 |	Search and Replace in the current file or workspace        |
+| Format Selected Text                                       |
 | Build, Run and Debug VERD Project                          |
+| Build Workspace                                            |
 
 
 
