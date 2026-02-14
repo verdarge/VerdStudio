@@ -5,7 +5,7 @@
 About
 -----
 
-The VERD Studio is an integrated development environment for VERD programming language. It allows a user to upload VERD project files, compile and run VERD projects, and debug them. Users can also search and replace in files within VERD Studio.
+The **VERD Studio** is an integrated development environment for **VERD** programming language. It allows a user to upload VERD project files, compile and run VERD projects, and debug them. Users can also search and replace in files within VERD Studio.
 
 VERD Studio works with workspaces. A workspace is simply a collection of projects grouped together. In VERD Studio user can create new workspaces or add existing workspaces. In initial screen of VERD Studio user can choose from one of the workspaces that are previously added or created. 
 
@@ -40,7 +40,7 @@ Functions supported by VERD Studio
 | Build, Run and Debug VERD Project                          |
 | Build Workspace                                            |
 
-Detailed explanations and screenshots for each functionality can be found in VERD Studio Reference Manual.
+Detailed explanations and screenshots for each functionality can be found in **VERD Studio Reference Manual**.
 
 VERD Programming Language
 -------
@@ -49,22 +49,28 @@ VERD is a high-level programming language designed to ease ERP development and d
 
 VERD language takes some features from **ABAP**, **C** and **HTML**. It was developed by using **C++** and **JavaScript** languages. Development of VERD programming language dates back to 2015.
 
-VERD language runs in either embedded or client/server mode. In embedded form client and server runs in a single application. Embedded form is used mainly for debugging purposes. Server is core of the language in client/server mode and is written by using C++ language. Client and server communicate by exchanging XML data. Client can be written in any language (**C++**, **Javascript**, **Python** etc.)
+VERD language runs in either embedded or client/server mode. In embedded form client and server runs in a single application. Embedded form is used mainly for debugging purposes. Server is core of the language in client/server mode and is written by using **C++** language. Client and server communicate by exchanging XML data. Client can be written in any language (**C++**, **Javascript**, **Python** etc.)
 
 Currently, **C++** and **Javascript** (Web) Clients are available. **C++** Client is written by using **WxWidgets** and **Expat** libraries. **SlickGrid** and **Bootstrap** javascript libraries are used for Web Client.
 
 VERD programming language currently supports only **Firebird** database management system. In the future, it is planned to add support for **SQL Server**, **PostgreSQL**, **MariaDB** and **Oracle** database management systems.
+ 
+VERD language is primarily used in development of **VERD ERP** system.
+
+Detailed features of VERD language with examples can be found in **VERD Language Reference Manual** .
 
 Installation
 -------
 VERD Studio currently runs only in Windows. VERD Studio can be installed by using **msi installer** that can be found in **Releases** section. VERD Studio comes with embedded form of VERD programming language conponents such as VERD compiler, VERD runtime and VERD debugger. 
 
-VERD Studio installs its files into path specified during installation. Default installation location is "**Program Files (x86)**" folder. One of files that VERD Studio installs, is login file that is modified by VERD Studio. If installation location is protected as in the case of default installation location, VERD Studio elevates to administrative privileges to modify login file during operations such as adding or creation workspace. If you don't want VERD Studio to elevate, you can change read write permisssion of login file by using following commands in cmd that is run as administrator. 
+VERD Studio installs its files into path specified during installation. Default installation location is "**Program Files (x86)**" folder. One of files that VERD Studio installs is login file that is modified by VERD Studio. If installation location is protected as in the case of default installation location, VERD Studio elevates to administrative privileges to modify login file during operations such as adding or creation workspace. If you don't want VERD Studio to elevate, you can change read write permisssion of login file by using following commands in cmd that is run as administrator. 
 
 <code>cd C:\Program Files (x86)\VerdStudio && icacls Login.xml /grant Users:(f)</code>
 
-Example Workspace and Database
+Example Database and Workspace
 -------
+   VERD ERP system database with 491 tables is provided as an example database for VERD programming language. Since VERD language only supports **Firebird** RDMS,  example databases are only provided only for **Firebird** v3, v4 and v5.
 
+   A workspace consisting of 20 programs that are written for VERD ERP system is provided as an example workspace. User can use these VERD programs with example database to learn VERD language features .
 
-
+   Both example databases and workspace can be found in **Releases** section.
