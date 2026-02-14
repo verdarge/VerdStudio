@@ -16,6 +16,12 @@ Source code files that VERD Studio uses should have the “.v” extension which
 Platforms
 ---------
 
+| Function        |Explanation    |
+| ------------    |:-------------:| 
+| col 3 is        | right-aligned | 
+| col 2 is        | centered      |   
+| zebra stripes   | are neat      |   
+
 Licence
 -------
 
