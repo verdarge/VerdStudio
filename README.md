@@ -20,8 +20,8 @@ Functions supported by VERD Studio
 | :----------------------------------------------------------| 
 | Create new Workspace                                       | 
 | Add existing Workspace                                     | 
-| Import Existing Project                                    | 
-| Create New VERD Project                                    | 
+| Import existing project                                    | 
+| Create a new VERD Project                                    | 
 | Open and close a VERD Project                              | 
 | Create a new Folder or a file                              | 
 | Delete an existing VERD project                            | 
