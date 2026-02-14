@@ -53,24 +53,36 @@ VERD language runs in either embedded or client/server mode. In embedded form cl
 
 Currently, **C++** and **Javascript** (Web) Clients are available. **C++** Client is written by using **WxWidgets** and **Expat** libraries. **SlickGrid** and **Bootstrap** javascript libraries are used for Web Client.
 
-VERD programming language currently supports only **Firebird** database management system. In the future, it is planned to add support for **SQL Server**, **PostgreSQL**, **MariaDB** and **Oracle** database management systems.
- 
+VERD programming internally uses **Open Database Connectivity(ODBC)** to work with databases. VERD programming language currently supports only **Firebird** database management system. In the future, it is planned to add support for **SQL Server**, **PostgreSQL**, **MariaDB** and **Oracle** database management systems. 
+
 VERD language is primarily used in development of **VERD ERP** system.
 
 Detailed features of VERD language with examples can be found in **VERD Language Reference Manual** .
 
+Platforms
+-------
+Both VERD Studio and VERD language currently runs only on **x86** systems. Other architectures such as **x86_64** and **arm64** are planned to add in future releases. At operating system level currently only **Windows** is supported. It is planned to add support for **Linux** and **MacOS** in future releases.
+
+Prerequisites
+-------
+<ul>
+<li><b>Firebird</b> Relational Database Management System <b>v3</b>,<b>v4</b> or <b>v5</b> </li>
+<li><b>Firebird</b> ODBC driver for <b>x86</b></li>
+</ul> 
+
 Installation
 -------
-VERD Studio currently runs only in Windows. VERD Studio can be installed by using **msi installer** that can be found in **Releases** section. VERD Studio comes with embedded form of VERD programming language conponents such as VERD compiler, VERD runtime and VERD debugger. 
+VERD Studio can be installed by using **msi installer** that can be found in **Releases** section. VERD Studio comes with embedded form of VERD programming language conponents such as VERD compiler, VERD runtime and VERD debugger. 
 
-VERD Studio installs its files into path specified during installation. Default installation location is "**Program Files (x86)**" folder. One of files that VERD Studio installs is login file that is modified by VERD Studio. If installation location is protected as in the case of default installation location, VERD Studio elevates to administrative privileges to modify login file during operations such as adding or creation workspace. If you don't want VERD Studio to elevate, you can change read write permisssion of login file by using following commands in cmd that is run as administrator. 
+VERD Studio installs its files into path specified during installation. Default installation location is "**Program Files (x86)**" folder. One of files that VERD Studio installs is login file that is modified by VERD Studio. If installation location is protected as in the case of default installation location, VERD Studio elevates to administrative privileges to modify login file during operations such as adding or creating workspace. If you don't want VERD Studio to elevate, you can change read write permisssion of login file by using following commands in cmd that is run as administrator. 
 
 <code>cd C:\Program Files (x86)\VerdStudio && icacls Login.xml /grant Users:(f)</code>
 
+
 Example Database and Workspace
 -------
-   VERD ERP system database with 491 tables is provided as an example database for VERD programming language. Since VERD language only supports **Firebird** RDMS,  example databases are only provided only for **Firebird** v3, v4 and v5.
-
-   A workspace consisting of 20 programs that are written for VERD ERP system is provided as an example workspace. User can use these VERD programs with example database to learn VERD language features .
-
+   VERD ERP system database with 491 tables is provided as an example database for VERD programming language. Since VERD language only supports **Firebird** RDBMS,  example databases are only provided only for **Firebird** **v3**, **v4** and **v5**.  
+   
+   A workspace consisting of 20 programs that are written for VERD ERP system is provided as an example workspace. User can use these VERD programs with example database to learn VERD language features . 
+   
    Both example databases and workspace can be found in **Releases** section.
