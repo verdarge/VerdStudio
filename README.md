@@ -11,8 +11,6 @@ VERD Studio keeps mainly three types of files to maintain its operations. First 
 
 VERD Studio supports Unicode characters in workspace paths, folder paths, file paths and file names. VERD Studio requires all files including login, workspace, project and source code files to be encoded in UTF-8 format. VERD Studio also supports Unicode characters during searching and replacing source code files.
 
-VERD Studio supports two types of search and replace operation. First type of search and modify operation that VERD Studio supports, is to search and replace in current file. In this type of search and replace, VERD Studio just uses the currently processing file. In second type search and replace operation that VERD Studio supports search and replace in all projects that are currently opened. In this type of search and replace, VERD Studio uses all files within projects that are already opened. 
-
 Source code files that VERD Studio uses should have the “.v” extension which indicates that source code file is VERD language source code file.
 
 Platforms
