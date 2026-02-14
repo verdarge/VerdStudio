@@ -13,11 +13,11 @@ VERD Studio supports Unicode characters in workspace paths, folder paths, file p
 
 Source code files that VERD Studio uses should have the “.v” extension which indicates that source code file is VERD language source code file.
 
-Platforms
+Functions supported by VERD Studio
 ---------
 
 | Function                                |
-| :--------------------------------------:|
+| :-------------------------------------- |
 | Create new Workspace                    | 
 | Add existing Workspace                  | 
 | Select from previously added Workspaces | 
