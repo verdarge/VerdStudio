@@ -42,7 +42,7 @@ Detailed explanations and screenshots for each functionality can be found in VER
 
 Installation
 -------
-VERD Studio currently runs only in Windows. VERD Studio can be installed by using msi installer that can be found in releases. VERD Studio comes with embedded form of VERD programming language conponents such as VERD compiler, VERD runtime and VERD debugger. 
+VERD Studio currently runs only in Windows. VERD Studio can be installed by using **msi installer** that can be found in **Releases** section. VERD Studio comes with embedded form of VERD programming language conponents such as VERD compiler, VERD runtime and VERD debugger. 
 
 VERD Studio installs its files into path specified during installation. Default installation location is "**Program Files (x86)**" folder. One of files that VERD Studio installs, is login file that is modified by VERD Studio. If installation location is protected as in the case of default installation location, VERD Studio elevates to administrative privileges to modify login file during operations such as adding or creation workspace. If you don't want VERD Studio to elevate, you can change read write permisssion of login file by using following commands in cmd that is run as administrator. 
 
