@@ -22,25 +22,19 @@ Functions supported by VERD Studio
 | Add existing Workspace                                     | 
 | Import Existing Project                                    | 
 | Create New VERD Project                                    | 
-| Open a closed VERD Project                                 | 
-| Close an opened VERD Project                               | 
-| Create New Folder under a Project or a folder              | 
-| Create New File under a Project  or a folder               | 
+| Open and close a VERD Project                              | 
+| Create New Folder or file                                  | 
 | Delete an existing VERD project                            | 
 | Remove an existing VERD project from workspace             |
 | Rename a VERD project                                      |
-| Copy & Paste a folder under a VERD project or a Folder     |
-| Copy & Paste a file under a VERD project or a folder       |
-| Delete an existing folder under a VERD project or a folder |
-| Rename a folder under a VERD project or a folder           |
-| Delete an existing file under a VERD project or a folder   |
-| Rename a file under a VERD project or a folder             |
+| Copy & Paste a folder                                      |
+| Copy & Paste a file                                        |
+| Delete an existing folder or file                          |
+| Rename a folder or file                                    |
 |	Search and Replace in the current file or workspace        |
 | Format Selected Text                                       |
 | Build, Run and Debug VERD Project                          |
 | Build Workspace                                            |
-
-
 
 Licence
 -------
