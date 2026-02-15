@@ -47,7 +47,7 @@ VERD Programming Language
 
 VERD is a high-level programming language designed to ease ERP development and database reporting. VERD is an abbreviation for “**Veri Tabanı Raporlama Dili**” in Turkish. “Veri Tabanı Raporlama Dili” in Turkish means “**Database Reporting Language**”
 
-VERD language takes some features from **ABAP**, **C** and **HTML**. It was developed by using **C++** and **JavaScript** languages. Development of VERD programming language dates back to 2015.
+VERD language takes some features from **ABAP**, **C** and **HTML**. It was developed by using **C++** and **JavaScript** languages. 
 
 VERD language runs in either embedded or client/server mode. In embedded form client and server runs in a single application. Embedded form is used mainly for debugging purposes. Server is core of the language in client/server mode and is written by using **C++** language. Client and server communicate by exchanging XML data. Client can be written in any language (**C++**, **Javascript**, **Python** etc.)
 
