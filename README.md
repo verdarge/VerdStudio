@@ -45,7 +45,7 @@ Detailed explanations and screenshots for each functionality can be found in **V
 VERD Programming Language
 -------
 
-VERD is a high-level programming language designed to ease ERP development and database reporting. VERD is an abbreviation for “**Veri Tabanı Raporlama Dili**” in Turkish. “Veri Tabanı Raporlama Dili” in Turkish means “**Database Reporting Language**”. VERD programming language was developed by Verd Arge Yazılım corporation located in Konya,Türkiye.
+VERD is a high-level programming language designed to ease ERP development and database reporting. VERD is an abbreviation for “**Veri Tabanı Raporlama Dili**” in Turkish. “Veri Tabanı Raporlama Dili” in Turkish means “**Database Reporting Language**”. 
 
 VERD language takes some features from **ABAP**, **C** and **HTML**. It was developed by using **C++** and **JavaScript** languages. 
 
