@@ -80,7 +80,7 @@ VERD Studio installs its files into path specified during installation. Default 
 
 Remarks
 -------
-VERD Studio and VERD Debugger communicates with sockets during debugging a VERD program. VERD Debugger listens on port **8887** by default. If this port is used by another process in your system you can change default port by changing **port_address** file located in installation folder. 
+VERD Studio and VERD Debugger communicate with sockets during debugging a VERD program. VERD Debugger listens on port **8887** by default. If this port is used by another process in your system you can change default port by changing **port_address** file located in installation folder. 
 
 Example Database and Workspace
 -------
