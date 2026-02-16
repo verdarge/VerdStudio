@@ -86,6 +86,6 @@ Example Database and Workspace
 -------
    VERD ERP system database with 491 tables is provided as an example database for VERD programming language. Since VERD language only supports **Firebird** RDBMS,  example databases are only provided only for **Firebird** **v3**, **v4** and **v5**.  
    
-   A workspace consisting of 20 programs that are written for VERD ERP system is provided as an example workspace. User can use these VERD programs with example database to learn VERD language features . 
+   A workspace consisting of 40 programs that are written for VERD ERP system is provided as an example workspace. User can use these VERD programs with example database to learn VERD language features . 
    
    Both example databases and workspace can be found in **Releases** section.
