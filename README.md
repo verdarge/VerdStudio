@@ -78,10 +78,6 @@ VERD Studio installs its files into path specified during installation. Default 
 
 <code>cd C:\Program Files (x86)\VerdStudio && icacls Login.xml /grant Users:(f)</code>
 
-Remarks
--------
-VERD Studio and VERD Debugger communicate with sockets during debugging a VERD program. VERD Debugger listens on port **8887** by default. If this port is used by another process in your system you can change default port by changing **port_address** file located in installation folder. 
-
 Example Database and Workspace
 -------
    VERD ERP system database with 491 tables is provided as an example database for VERD programming language. Since VERD language only supports **Firebird** RDBMS,  example databases are only provided only for **Firebird** **v3**, **v4** and **v5**.  
@@ -89,3 +85,9 @@ Example Database and Workspace
    A workspace consisting of 40 programs that are written for VERD ERP system is provided as an example workspace. User can use these VERD programs with example database to learn VERD language features . 
    
    Both example databases and workspace can be found in **Releases** section.
+
+Remarks
+-------
+VERD Studio and VERD Debugger communicate with sockets during debugging a VERD program. VERD Debugger listens on port **8887** by default. If this port is used by another process in your system you can change default port by changing **port_address** file located in installation folder. 
+
+Programs in example workspace use database alias **VERDPLATFORM** to access example databases. **VERDPLATFORM** database alias should have to be added to **databases.conf** file with example database installation path. This file(**databases.conf**) is located under **Firebird** installation folder.
