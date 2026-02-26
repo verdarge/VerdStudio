@@ -90,4 +90,4 @@ Remarks
 -------
 VERD Studio and VERD Debugger communicate with sockets during debugging a VERD program. VERD Debugger listens on port **8887** by default. If this port is used by another process in your system you can change default port by changing **port_address** file located in installation folder. 
 
-Programs in example workspace use database alias **VERDPLATFORM** to access example databases. **VERDPLATFORM** database alias should have to be added to **databases.conf** file with example database installation path. This file(**databases.conf**) is located under **Firebird** installation folder.
+Programs in example workspace use database alias **VERDPLATFORM** to access example databases. **VERDPLATFORM** database alias should have to be added to **databases.conf** file with example database installation path. This file is located under **Firebird** installation folder.
