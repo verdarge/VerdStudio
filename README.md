@@ -40,7 +40,7 @@ Functions supported by VERD Studio
 | Build, Run and Debug VERD Project                          |
 | Build Workspace                                            |
 
-Detailed explanations and screenshots for each functionality can be found in **VERD Studio Reference Manual**.
+Detailed explanations and screenshots for each functionality can be found in **VERD Studio User Manual**.
 
 VERD Programming Language
 -------
