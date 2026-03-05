@@ -40,7 +40,7 @@ Functions supported by VERD Studio
 | Build, Run and Debug VERD Project                          |
 | Build Workspace                                            |
 
-Detailed explanations and screenshots for each functionality can be found in **VERD Studio User Manual**.
+Detailed explanations and screenshots for each functionality can be found in **[VERD Studio User Manual](https://github.com/verdarge/VerdStudio/blob/master/VERD%20Studio%20User%20Manual.pdf)**.
 
 VERD Programming Language
 -------
@@ -57,7 +57,7 @@ VERD programming internally uses **Open Database Connectivity(ODBC)** to work wi
 
 VERD language is primarily used in development of **VERD ERP** system.
 
-Detailed features of VERD language with examples can be found in **VERD Language Reference Manual** .
+Detailed features of VERD language with examples can be found in **[VERD Language Reference Manual](https://github.com/verdarge/VerdStudio/blob/master/VERD%20Language%20Reference%20Manual.pdf)** .
 
 Platforms
 -------
