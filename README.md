@@ -53,7 +53,7 @@ VERD language runs in either embedded or client/server mode. In embedded form cl
 
 Currently, **C++** and **Javascript** (Web) Clients are available. **C++** Client is written by using **WxWidgets** and **Expat** libraries. **SlickGrid** and **Bootstrap** javascript libraries are used for Web Client.
 
-VERD programming internally uses **Open Database Connectivity(ODBC)** to work with databases. VERD programming language currently supports only **Firebird** database management system. In the future, it is planned to add support for **SQL Server**, **PostgreSQL**, **MariaDB** and **Oracle** database management systems. 
+VERD programming language internally uses **Open Database Connectivity(ODBC)** to work with databases. VERD programming language currently supports only **Firebird** database management system. In the future, it is planned to add support for **SQL Server**, **PostgreSQL**, **MariaDB** and **Oracle** database management systems. 
 
 VERD language is primarily used in development of **VERD ERP** system.
 
