@@ -55,7 +55,7 @@ Currently, **C++** and **Javascript** (Web) Clients are available. **C++** Clien
 
 VERD programming language internally uses **Open Database Connectivity(ODBC)** to work with databases. VERD programming language currently supports only **Firebird** database management system. In the future, it is planned to add support for **SQL Server**, **PostgreSQL**, **MariaDB** and **Oracle** database management systems. 
 
-VERD language is primarily used in development of **VERD ERP** system.
+VERD language is primarily used in development of **VERD ERP** system. VERD programming language was tested with nearly 330,000 lines of code up to date.
 
 Detailed features of VERD language with examples can be found in **[VERD Language Reference Manual](https://github.com/verdarge/VerdStudio/blob/master/VERD%20Language%20Reference%20Manual.pdf)** .
 
